@@ -1,5 +1,5 @@
 #include<stdio.h>
-int main()
+void main()
 {
 int a,b,c,d,e;
 printf("Enter the three digit number:");
@@ -12,5 +12,4 @@ if(a=e)
 printf("Palindrome ");
 else
 printf("Not a palindrome");
-return 0;
 }
